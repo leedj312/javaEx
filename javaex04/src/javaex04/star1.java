@@ -7,7 +7,7 @@ public class star1 {
 		int num2;
 		char s='*';
 		
-		for (num=1; num <=5; num++ ) {
+		for (num=1; num <=7; num++ ) {
 			for (num2=1; num2 <=num; num2++ ) {
 				System.out.print(s);
 			}
